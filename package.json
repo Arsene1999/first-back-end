@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Arsene1999/first-back-end#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mysql": "^2.18.1",
     "open": "^10.1.0",
